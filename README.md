@@ -4,6 +4,10 @@ This project is done during SDAIA Academy Bootcamp as a part of METIS course req
 - [**Project Proposal**](https://github.com/shhdSU/Resume_Parser_NLP/blob/main/Resume_Parser_Proposal.md)
 - [**Project MVP**](https://github.com/shhdSU/Resume_Parser_NLP/blob/main/Resume_Parser_MVP.md)
 - [**Images Folder:**](https://github.com/shhdSU/Resume_Parser_NLP/tree/main/Images) to put the images used within this repo
+- [**Jupyter Notebook:**](/Jupyter_Notebooks) contains 6 Jupyter Notebooks for the project
+- [**Project Presentation**](Resume_Parser.pdf)
+- [**Final Report**](Resume_Parser_Final_Report.md)
+
 ### Contact Me
 For any questions please contact me <br/>
 - 📧 **Email :** shhd.kaltham@gmail.com <br/>
