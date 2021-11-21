@@ -5,7 +5,7 @@ This project is done during SDAIA Academy Bootcamp as a part of METIS course req
 - [**Project MVP**](Resume_Parser_MVP.md)
 - [**Images Folder:**](/Images) to put the images used within this repo
 - [**Jupyter Notebook:**](/Jupyter_Notebooks) contains 6 Jupyter Notebooks for the project
-- [**Project Presentation**](Resume_Parser.pdf)
+- [**Project Presentation**](Resume_Parser_slides.pdf)
 - [**Final Report**](Resume_Parser_Final_Report.md)
 
 ### Contact Me
